@@ -1,0 +1,17 @@
+.inner-sobre {
+  background: url('../img/bg-sobre.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.sobre {
+  padding: 60px 150px 40px 150px;
+}
+
+.sobre p {
+  padding-bottom: 20px;
+  font-size: 1.125em;
+}
+
+.bg-equipe {
+  padding: 10px 0 30px 0;
+}

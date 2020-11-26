@@ -1,0 +1,14 @@
+.inner-contato {
+  background: url('../img/bg-contato.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.page-contato {
+  background-color: #fff;
+  padding: 60px 0;
+}
+
+.encontre {
+  background-color: #ededf9;
+  padding: 60px 0;
+}

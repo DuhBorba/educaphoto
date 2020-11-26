@@ -1,0 +1,119 @@
+/* Estilo tablet */
+
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  /* Header */
+
+  .header-menu ul li {
+    margin-left: 0px;
+  }
+
+  /* Introdução */
+
+  .introduction {
+    margin-top: 80px;
+  }
+
+  .inner-introduction {
+    margin-top: 82px;
+  }
+}
+
+/* Estilos smartphone */
+
+@media only screen and (max-width: 787px) {
+  /* Header */
+
+  .header {
+    position: relative;
+    padding-bottom: 0px;
+  }
+
+  .header img {
+    margin: 0 auto 10px auto;
+  }
+
+  .header-menu {
+    text-align: left;
+  }
+
+  .header-menu ul li {
+    margin: 5px;
+    text-align: center;
+  }
+
+  .header-menu ul li a {
+    width: 136px;
+    display: block;
+    float: left;
+  }
+
+  /* Introdução */
+
+  .introduction {
+    margin-top: 0px;
+    padding-top: 100px;
+    background-size: cover;
+  }
+
+  .introduction h1 {
+    font-size: 36px;
+  }
+
+  .lista {
+    padding: 60px 0;
+  }
+
+  .lista li {
+    position: static;
+  }
+
+  .lista p {
+    padding-bottom: 40px;
+  }
+
+  /* Introdução Interna */
+
+  .inner-introduction {
+    margin-top: 0px;
+  }
+
+  /* Call to Action */
+
+  .call-to-action {
+    padding-top: 10px;
+  }
+
+  /* Planos */
+
+  .flex-center {
+    display: block;
+  }
+
+  /* Contato */
+
+  .redes-sociais ul li {
+    margin: 0 15px;
+  }
+
+  .contato-form {
+    padding: 0px;
+  }
+
+  /* Sobre */
+
+  .sobre {
+    padding: 60px 0 40px 0;
+  }
+
+  /* Footer */
+
+  .footer .logo-footer img {
+    float: none;
+  }
+
+  /* Swiper Slide */
+
+  .swiper-container {
+    height: 170px;
+  }
+}

@@ -1,0 +1,8 @@
+.inner-servicos {
+  background: url('../img/bg-servicos.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.padding-servicos {
+  padding-top: 60px;
+}
