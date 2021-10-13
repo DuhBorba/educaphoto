@@ -1,1 +1,1 @@
-# site-educaphoto
+# https://duhborba.github.io/educaphoto/
